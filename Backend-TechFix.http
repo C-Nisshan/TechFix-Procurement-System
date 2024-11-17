@@ -1,0 +1,6 @@
+@Backend_TechFix_HostAddress = http://localhost:5096
+
+GET {{Backend_TechFix_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
